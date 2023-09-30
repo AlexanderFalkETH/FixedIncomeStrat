@@ -1,0 +1,1 @@
+c.NotebookApp.notebook_dir = 'C:\Users\alexa\Desktop\FixedIncomeStrat'
